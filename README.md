@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👨‍💻 Lee GamJeong
+# 👨‍💻 Lee Jeong
 ### Robotics · Embedded · System Developer
 
 > I build software by understanding how the whole system works.  
