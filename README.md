@@ -6,7 +6,7 @@
 ### Robotics · Embedded · System Developer
 
 > I build software by understanding how the whole system works.  
-> My interests include robotics, embedded systems, backend development, mobile apps, and system integration.
+> I focus on system integration, robotics, backend development, and real-world problem solving.
 
 </div>
 
@@ -34,11 +34,6 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-## 🗄️ Database
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-
 ## 🤖 Robotics / Autonomous Systems
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 <img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge"/>
@@ -60,31 +55,74 @@
 <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-0078D7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OrCAD-0078D7?style=for-the-badge"/>
 
-## 🛠️ Dev Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+---
+
+# 🧪 Projects
+
+## 🚁 PX4 + ROS2 Simulation System
+- Docker Compose 기반 XRCE Agent 포함 실행 환경 구축
+- ROS2 ↔ PX4 DDS 통신 연결 및 토픽 데이터 검증
+- YAML 파라미터 파싱 오류 해결 (구조 mismatch 수정)
+- FastDDS / XRCE 버전 충돌 해결 및 환경 복구
+- 시스템 실행 불가 상태 → 정상 동작 상태로 복구
+
+👉 Result  
+- PX4 시뮬레이션 환경 정상 동작  
+- vehicle_status / local_position 데이터 실시간 확인  
+
+---
+
+## 📱 PaejaePick (Campus App)
+- Flutter 기반 캠퍼스 통합 앱 설계 및 개발
+- 시간표 / 학식 / 지도 / 기능 통합 구조 설계
+- 서버 없이 동작하는 구조 고민 및 구현
+- 사용자 중심 UX/UI 설계
+
+---
+
+## ⚾ StatBase (Baseball Data Service)
+- 야구 데이터 기반 웹 서비스 설계 및 운영
+- 경기 기록 / 통계 데이터 시각화
+- 사용자 중심 데이터 조회 구조 설계
+- 서비스 구조 분석 및 개선 경험
+
+👉 핵심  
+- 단순 개발이 아니라 **서비스 운영 + 데이터 구조 설계 경험**
+
+---
+
+## 🤖 AI Office (Multi-Agent System)
+- FastAPI 기반 AI 에이전트 시스템 구축
+- 역할 기반 agent 구조 설계 (PM / Dev / QA)
+- task / service / storage 계층 분리
+- Next.js 기반 프론트엔드 연동
+
+---
+
+## 📊 EduPulse (AI Analysis Service)
+- 공공데이터 기반 학습 위험도 분석 서비스
+- scikit-learn 기반 모델 구현
+- FastAPI + Next.js 구조
+- 데이터 시각화 및 결과 제공
 
 ---
 
 # 📌 What I Do
 
 - Build backend systems and REST APIs
-- Develop Flutter-based mobile applications
-- Work on robotics / PX4 / ROS2 system integration
-- Debug execution environments and connect software stacks end-to-end
-- Explore embedded systems and hardware-software integration
+- Develop mobile applications using Flutter
+- Integrate ROS2, PX4, and DDS-based systems
+- Debug and stabilize complex execution environments
+- Design and connect full system architecture
 
 ---
 
-# 🧪 Experience / Interests
+# 🧠 Core Strength
 
-- ROS2–PX4–DDS environment bring-up and debugging
-- Docker-based simulation environment setup
-- System-level debugging across runtime, dependency, and configuration layers
-- Embedded / robotics / autonomous system workflow understanding
-- App, backend, and system architecture design
+- System Integration (ROS2–PX4–DDS)
+- Debugging across environment / dependency / runtime
+- Service architecture design
+- Backend + App + System 연결 경험
 
 ---
 
