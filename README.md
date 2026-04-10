@@ -12,27 +12,6 @@
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gamjeong0724&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamjeong0724&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 Algorithm / BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyj4748)](https://solved.ac/leeyj4748/)
-<br>
-<img src="http://mazandi.herokuapp.com/api?handle=leeyj4748&theme=dark"/>
-
-</div>
-
----
-
 # 🚀 Tech Stack
 
 ## 🧩 Language
@@ -93,8 +72,7 @@
 
 - Build backend systems and REST APIs
 - Develop Flutter-based mobile applications
-- Solve algorithm problems and strengthen CS fundamentals
-- Work on robotics / PX4 / ROS2 based system integration
+- Work on robotics / PX4 / ROS2 system integration
 - Debug execution environments and connect software stacks end-to-end
 - Explore embedded systems and hardware-software integration
 
@@ -113,7 +91,7 @@
 <div align="center">
 
 ## 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gamjeong0724&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gxmzung&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -121,7 +99,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gamjeong0724&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=gxmzung&color=blue)
 
 ### ⭐ Thanks for visiting my GitHub ⭐
 
