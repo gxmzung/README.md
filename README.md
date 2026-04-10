@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Lee%20GamJeong&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Lee%20Jeong&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <div align="center">
 
