@@ -1,77 +1,72 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Lee%20Jeong&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=&fontSize=0" />
 
 <div align="center">
 
-# 👨‍💻 Lee Jeong
-### System-oriented Developer · Robotics · Embedded · Backend
+<h1>LEE JEONG</h1>
 
-I build software by understanding how the whole system works.  
-My focus is on **system integration, robotics, embedded development, backend architecture, and real-world problem solving**.
+<h3>System-oriented Developer · Robotics · Embedded · Backend</h3>
+
+<p>
+I build software by understanding how the whole system works.<br/>
+I focus on <b>system integration</b>, <b>robotics</b>, <b>embedded development</b>, and <b>real-world problem solving</b>.
+</p>
+
+<p>
+  <a href="https://github.com/gxmzung">
+    <img src="https://img.shields.io/badge/GitHub-gxmzung-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gxmzung&style=for-the-badge&color=0e75b6" />
+</p>
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I am a developer who prefers **building connected systems** over making isolated features.
+I am a developer who prefers **connected systems** over isolated features.
 
-Rather than focusing only on one layer, I work across:
+My interest is not limited to writing one part of the code.  
+I like understanding how **backend services, mobile apps, embedded logic, robotics environments, and user needs** connect into one working product.
 
-- **Backend services**
-- **Mobile applications**
-- **Embedded / hardware-related logic**
-- **Robotics & autonomous systems**
-- **System debugging and integration**
-
-I am especially interested in problems where software must work **with devices, protocols, environments, and real users**.
+I care about software that does not just run in theory, but works in **real environments**, with **real constraints**, for **real users**.
 
 ---
 
-# What Defines Me
+## Engineering Philosophy
 
-- I like understanding the **whole flow**, not just writing one part of the code
-- I am strong at **connecting systems that do not work together cleanly at first**
-- I prefer **practical architecture and recoverable systems** over flashy but fragile implementations
-- I treat debugging as a core engineering skill, not a side task
-- I care about products that solve **real operational problems**
-
----
-
-# Main Focus Areas
-
-### 🤖 Robotics / Autonomous Systems
-- ROS2-based integration
-- PX4 simulation environments
-- DDS / XRCE-DDS communication
-- Sensor / control / system interaction understanding
-- Simulation-first development workflow
-
-### 🔌 Embedded / System Development
-- MCU-based thinking
-- UART / SPI / I2C communication structure
-- Device-oriented software logic
-- Hardware-software interface awareness
-- System-level debugging
-
-### 🖥️ Backend / Service Architecture
-- REST API design
-- Service structure design
-- Modular backend development
-- Data flow and system interaction design
-- Recoverable and maintainable architecture
-
-### 📱 Application Development
-- Flutter-based mobile app development
-- UX/UI structure planning
-- Feature integration across services
-- App architecture for real use cases
+- Build for **operation**, not just for demo
+- Prefer **clear architecture** over flashy complexity
+- Treat **debugging** as engineering, not as cleanup
+- Focus on **integration and recovery**, where real systems usually fail
+- Design software with awareness of **environment, dependency, interface, and user flow**
 
 ---
 
-# Tech Stack
+## What I Do
 
-## 🧩 Languages
+- Build backend systems and REST APIs
+- Develop mobile applications with Flutter
+- Work on robotics / autonomous system integration
+- Handle embedded-oriented communication structures
+- Debug broken environments and stabilize execution flows
+- Design service architecture across multiple layers
+
+---
+
+## Core Strength
+
+- **System Integration** across backend, app, embedded, and robotics domains
+- **Debugging** across dependency, runtime, communication, and environment layers
+- **Architecture Design** for practical and maintainable systems
+- **Problem Solving** with strong awareness of real-world constraints
+- **Cross-domain Thinking** beyond a single stack or framework
+
+---
+
+## Tech Stack
+
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -80,7 +75,7 @@ I am especially interested in problems where software must work **with devices, 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## 🖥️ Backend
+### Backend
 <p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -88,20 +83,16 @@ I am especially interested in problems where software must work **with devices, 
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
 </p>
 
-## 🌐 Frontend
+### Frontend / Mobile
 <p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
-## 📱 Mobile
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
-## 🤖 Robotics / Autonomous Systems
+### Robotics / Autonomous Systems
 <p>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge"/>
@@ -110,7 +101,7 @@ I am especially interested in problems where software must work **with devices, 
   <img src="https://img.shields.io/badge/Simulation-1E1E1E?style=for-the-badge"/>
 </p>
 
-## ⚙️ Infra / Environment
+### Infra / System
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -119,7 +110,7 @@ I am especially interested in problems where software must work **with devices, 
   <img src="https://img.shields.io/badge/System%20Debugging-CC0000?style=for-the-badge"/>
 </p>
 
-## 🔌 Embedded
+### Embedded
 <p>
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MCU-333333?style=for-the-badge"/>
@@ -129,66 +120,64 @@ I am especially interested in problems where software must work **with devices, 
 
 ---
 
-# Engineering Keywords
+## How I Work
 
-`System Integration` `Backend Architecture` `Embedded Thinking` `Robotics` `Simulation`  
-`Debugging` `Infrastructure Recovery` `Real-world Products` `Mobile Apps` `Service Design`
-
----
-
-# Representative Work
-
-### 📱 PaejaePick
-A campus-focused application designed around practical student needs, feature integration, and real usability.
-
-### ⚾ StatBase
-A baseball data service centered on information structure, statistics visualization, and service operation.
-
-### 🤖 AI Office
-A role-based multi-agent system with backend-service separation and frontend integration.
-
-### 📊 EduPulse
-A data-driven analysis service combining public data, machine learning, API architecture, and result visualization.
-
-### 🚁 PX4 + ROS2 Environment Work
-Simulation environment setup, communication recovery, dependency troubleshooting, and system stabilization.
+- I start from **system structure**, not from random feature implementation
+- I break problems into **input → processing → output → integration**
+- I value **stability, maintainability, and recoverability**
+- I am comfortable working across **multiple layers of a product**
+- I prefer building things that can eventually become **real products**, not only assignments
 
 ---
 
-# What I Usually Build
+## Representative Experience
 
-- Backend systems and REST APIs
-- Mobile applications with Flutter
-- Data-driven services
-- Robotics / simulation environments
-- Integration-heavy systems
-- Tools that require debugging across multiple layers
+### PX4 + ROS2 Simulation System
+- Built and recovered simulation environments with Docker-based execution flows
+- Connected ROS2 ↔ PX4 communication structures
+- Resolved parameter parsing and version mismatch issues
+- Stabilized broken execution environments into usable systems
+
+### PaejaePick
+- Designed and developed a campus-focused Flutter application
+- Planned feature integration around timetable, map, cafeteria, and utility functions
+- Worked with a server-light / no-server-first mindset
+- Focused on practical student-centered UX structure
+
+### StatBase
+- Designed and operated a baseball data service
+- Structured statistical information for user-friendly access
+- Worked on service planning, data flow, and visualization thinking
+
+### AI Office / EduPulse
+- Built service structures with FastAPI and frontend integration
+- Organized layered backend logic and multi-role workflows
+- Worked on machine-learning-driven result delivery and visualization
 
 ---
 
-# Strengths
+## Currently Exploring
 
-- Understanding systems from **architecture to execution**
-- Connecting **backend, app, embedded, and robotics domains**
-- Recovering broken or unstable environments
-- Designing structures that are easier to maintain and extend
-- Building with both **technical logic** and **practical usage** in mind
-
----
-
-# Current Interests
-
-- Robotics software stacks
+- Robotics software architecture
 - Autonomous system integration
-- Embedded systems
+- Embedded communication and device control
 - Backend platform design
-- Service architecture
 - AI-assisted development workflows
-- Real-world software products
+- Real-world service architecture
 
 ---
 
-# GitHub Insights
+## Featured Repositories
+
+- **PaejaePick** — Campus application focused on real student utility
+- **StatBase** — Data-driven baseball service with structured information design
+- **AI Office** — Multi-agent architecture with backend / frontend separation
+- **EduPulse** — Public-data-based AI analysis service
+- **PX4 + ROS2 environment work** — Integration, debugging, and stabilization experience
+
+---
+
+## GitHub Insights
 
 <div align="center">
 
@@ -205,7 +194,7 @@ Simulation environment setup, communication recovery, dependency troubleshooting
 
 ---
 
-# Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gxmzung&theme=tokyo-night&hide_border=true" />
@@ -213,22 +202,18 @@ Simulation environment setup, communication recovery, dependency troubleshooting
 
 ---
 
-# Contact
+## Keywords
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-gxmzung-181717?style=for-the-badge&logo=github)](https://github.com/gxmzung)
-
-</div>
+`System Integration` `Robotics` `Embedded` `Backend` `REST API`  
+`Flutter` `ROS2` `PX4` `Debugging` `Architecture`  
+`Simulation` `Infrastructure` `Real-world Products`
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gxmzung&color=blue)
-
 ### Thanks for visiting my GitHub
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer&text=&fontSize=0" />
