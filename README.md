@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=&fontSize=0" />
-
-<div align="center">
 
 <h1>LEE JEONG</h1>
 
@@ -215,5 +212,3 @@ I care about software that does not just run in theory, but works in **real envi
 ### Thanks for visiting my GitHub
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer&text=&fontSize=0" />
