@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A7C7E7,50:D9B3FF,100:F6C1D1&text=LEE%20JEONG&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=System-oriented%20Developer%20%7C%20Robotics%20%7C%20Embedded%20%7C%20Backend&descAlignY=62&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:B8D8F8,50:D8B4F8,100:F8C8DC&text=LEE%20JEONG&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=System-oriented%20Developer%20%7C%20Robotics%20%7C%20Embedded%20%7C%20Backend&descAlignY=62&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=B39DDB&center=true&vCenter=true&width=950&lines=I+build+software+by+understanding+how+the+whole+system+works.;Backend+%2B+App+%2B+Embedded+%2B+Robotics.;Architecture%2C+Integration%2C+Debugging%2C+Recovery." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=C792EA&center=true&vCenter=true&width=950&lines=I+build+software+by+understanding+how+the+whole+system+works.;Backend+%2B+App+%2B+Embedded+%2B+Robotics.;Architecture%2C+Integration%2C+Debugging%2C+Recovery." />
 
-<p>
-  <a href="https://github.com/gxmzung">
-    <img src="https://img.shields.io/badge/GitHub-gxmzung-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gxmzung&style=for-the-badge&color=7B61FF" />
-  <a href="https://github.com/gxmzung?tab=followers">
-    <img src="https://img.shields.io/github/followers/gxmzung?style=for-the-badge&color=F783AC&labelColor=1c1c1c" />
-  </a>
-</p>
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/System%20Integration-4C6EF5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Robotics-7B61FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Embedded-12B886?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backend-F59F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Debugging-E03131?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Architecture-495057?style=flat-square"/>
-</p>
+<a href="https://github.com/gxmzung">
+  <img src="https://img.shields.io/badge/GitHub-gxmzung-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=gxmzung&style=for-the-badge&color=C792EA" />
+<a href="https://github.com/gxmzung?tab=followers">
+  <img src="https://img.shields.io/github/followers/gxmzung?style=for-the-badge&color=F4A7B9&labelColor=2f2f2f" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/System%20Integration-90CAF9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Robotics-D1B3FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embedded-A8E6CF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-FFD3B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Debugging-FFAAA5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Architecture-C7CEEA?style=flat-square"/>
 
 </div>
 
@@ -48,7 +48,7 @@ I care about software that does not just run in theory, but works in **real envi
 
 ---
 
-## What I Actually Work On
+## What I Do
 
 - Build backend systems and REST APIs
 - Develop mobile applications with Flutter
@@ -66,6 +66,16 @@ I care about software that does not just run in theory, but works in **real envi
 - **Architecture Design** for practical and maintainable systems
 - **Problem Solving** with strong awareness of real-world constraints
 - **Cross-domain Thinking** beyond a single stack or framework
+
+---
+
+## Roles I Can Take
+
+- **System Integrator**
+- **Backend Developer**
+- **Embedded / Robotics Developer**
+- **Debugging & Recovery Engineer**
+- **Architecture-oriented Builder**
 
 ---
 
@@ -90,52 +100,52 @@ I describe those technologies only where I have actually used them in real proje
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-89CFF0?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-AEC6CF?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-CFD8DC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-B3E5FC?style=flat-square&logo=dart&logoColor=01579B"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFF3B0?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-C5E1A5?style=flat-square&logo=springboot&logoColor=2E7D32"/>
+  <img src="https://img.shields.io/badge/FastAPI-B2DFDB?style=flat-square&logo=fastapi&logoColor=00695C"/>
+  <img src="https://img.shields.io/badge/REST_API-D1C4E9?style=flat-square"/>
 </p>
 
 ### Frontend / Mobile
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-B3E5FC?style=flat-square&logo=flutter&logoColor=0277BD"/>
+  <img src="https://img.shields.io/badge/Android-C8E6C9?style=flat-square&logo=android&logoColor=2E7D32"/>
+  <img src="https://img.shields.io/badge/HTML5-FFCCBC?style=flat-square&logo=html5&logoColor=BF360C"/>
+  <img src="https://img.shields.io/badge/CSS3-B3E5FC?style=flat-square&logo=css3&logoColor=1565C0"/>
+  <img src="https://img.shields.io/badge/Next.js-E1BEE7?style=flat-square&logo=nextdotjs&logoColor=4A148C"/>
 </p>
 
 ### Robotics / Autonomous Systems
 <p>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PX4-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DDS-6DB33F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Micro_XRCE--DDS-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Simulation-343A40?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ROS2-C5CAE9?style=flat-square&logo=ros&logoColor=283593"/>
+  <img src="https://img.shields.io/badge/PX4-D7CCC8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DDS-A5D6A7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Micro_XRCE--DDS-FFE0B2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Simulation-D1C4E9?style=flat-square"/>
 </p>
 
 ### Infra / System
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/System%20Integration-2E8B57?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System%20Debugging-CC0000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-B3E5FC?style=flat-square&logo=docker&logoColor=0277BD"/>
+  <img src="https://img.shields.io/badge/Linux-FFF9C4?style=flat-square&logo=linux&logoColor=333333"/>
+  <img src="https://img.shields.io/badge/System%20Integration-C8E6C9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Debugging-FFCDD2?style=flat-square"/>
 </p>
 
 ### Embedded / Hardware
 <p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MCU-333333?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-0078D7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OrCAD-0078D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ESP32-CFD8DC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MCU-E0E0E0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-B3E5FC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OrCAD-D1C4E9?style=flat-square"/>
 </p>
 
 ---
@@ -143,26 +153,50 @@ I describe those technologies only where I have actually used them in real proje
 ## Representative Experience
 
 ### PX4 + ROS2 VTOL Environment
-- Worked on a ROS2 + PX4 based VTOL workspace
-- Handled launch structure, simulation workflow, integration flow, and debugging context
-- Worked with package-based organization, Docker-based environment setup, and monitoring-oriented structure
-- Focused on making the environment executable and recoverable rather than keeping it theoretical
+- Worked on a **ROS2 + PX4 based VTOL workspace**
+- Participated in **execution environment setup, launch structure handling, and integration flow debugging**
+- Tracked issues related to **YAML parameter formatting, execution/package dependencies, version compatibility, and middleware behavior**
+- Focused on making the environment **executable, stable, and recoverable**, not just theoretically configured
 
 ### PaejaePick
-- Designed and developed a campus-focused Flutter application
-- Planned feature integration around timetable, map, cafeteria, and utility functions
-- Worked with a server-light / no-server-first mindset
-- Focused on practical student-centered UX structure
+- Designed and developed a **campus-focused Flutter application**
+- Planned feature integration around **timetable, map, cafeteria, attendance log, and student utility functions**
+- Worked with a **server-light / no-server-first mindset**
+- Focused on **practical student-centered UX structure**
 
 ### StatBase
-- Designed and operated a baseball data service
-- Structured statistical information for user-friendly access
-- Worked on service planning, data flow, and visualization thinking
+- Designed and operated a **baseball data service**
+- Structured statistical information for **user-friendly access**
+- Worked on **service planning, data flow, and visualization-oriented thinking**
 
 ### AI Office / EduPulse
-- Built service structures with FastAPI and frontend integration
-- Organized layered backend logic and multi-role workflows
-- Worked on machine-learning-driven result delivery and visualization
+- Built service structures with **FastAPI and frontend integration**
+- Organized **layered backend logic and multi-role workflows**
+- Worked on **machine-learning-driven result delivery and visualization**
+
+---
+
+## Team Project Contributions I Can Publicly Describe
+
+### ROS2 / PX4 / DDS Related Contribution
+- Investigated environment-dependent failures during **local build and execution**
+- Identified issues around **YAML parameter formatting consistency**
+- Checked **package dependency structure** and **execution path problems**
+- Compared middleware-related behavior in contexts involving **ROS2, PX4, DDS, and XRCE**
+- Followed version-sensitive areas such as **agent / library compatibility**
+- Contributed by narrowing down causes and communicating **reproducible technical findings**
+
+> I only document the parts I directly analyzed, modified, or verified.
+
+---
+
+## How I Work
+
+- I start from **system structure**, not from random feature implementation
+- I break problems into **input → processing → output → integration**
+- I value **stability, maintainability, and recoverability**
+- I am comfortable working across **multiple layers of a product**
+- I prefer building things that can eventually become **real products**, not only assignments
 
 ---
 
@@ -182,11 +216,21 @@ I describe those technologies only where I have actually used them in real proje
   <tr>
     <td width="50%">
       <h3>AI Office</h3>
-      <p>Multi-agent architecture project with separated backend, workflow, and visualization logic.</p>
+      <p>Multi-agent workflow project with separated backend, workflow, and visualization logic.</p>
     </td>
     <td width="50%">
       <h3>EduPulse</h3>
       <p>Public-data-based AI analysis service with result interpretation and service presentation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>PX4 + ROS2 Environment Work</h3>
+      <p>Integration, execution flow stabilization, environment debugging, and technical issue tracing.</p>
+    </td>
+    <td width="50%">
+      <h3>Embedded / Circuit Work</h3>
+      <p>Hardware-oriented thinking with communication interfaces and OrCAD-based design experience.</p>
     </td>
   </tr>
 </table>
