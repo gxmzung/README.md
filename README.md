@@ -272,6 +272,5 @@ I describe those technologies only where I have actually used them in real proje
 
 <div align="center">
 
-### Build what actually works.
 
 </div>
