@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:A7C7E7,50:D9B3FF,100:F6C1D1&text=LEE%20JEONG&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=System-oriented%20Developer%20%7C%20Robotics%20%7C%20Embedded%20%7C%20Backend&descAlignY=61&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A7C7E7,50:D9B3FF,100:F6C1D1&text=LEE%20JEONG&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=System-oriented%20Developer%20%7C%20Robotics%20%7C%20Embedded%20%7C%20Backend&descAlignY=62&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=B39DDB&center=true&vCenter=true&width=950&lines=I+build+software+by+understanding+how+the+whole+system+works.;System+Integration+%7C+Robotics+%7C+Embedded+%7C+Backend.;Real-world+products+over+isolated+features." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=B39DDB&center=true&vCenter=true&width=950&lines=I+build+software+by+understanding+how+the+whole+system+works.;Backend+%2B+App+%2B+Embedded+%2B+Robotics.;Architecture%2C+Integration%2C+Debugging%2C+Recovery." />
 
 <p>
   <a href="https://github.com/gxmzung">
@@ -48,7 +48,7 @@ I care about software that does not just run in theory, but works in **real envi
 
 ---
 
-## What I Do
+## What I Actually Work On
 
 - Build backend systems and REST APIs
 - Develop mobile applications with Flutter
@@ -69,12 +69,23 @@ I care about software that does not just run in theory, but works in **real envi
 
 ---
 
+## Selected Experience Note
+
+Some of my experience comes from:
+
+- team repositories where I was not the final public maintainer
+- private organizational projects
+- industry work that cannot be published in full
+
+Because of that, not every technology I worked with appears as a standalone public repository.  
+I describe those technologies only where I have actually used them in real project contexts.
+
+---
+
 ## Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,dart,js,spring,fastapi,flutter,nextjs,docker,linux,androidstudio,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=java,python,c,dart,js,spring,fastapi,flutter,nextjs,docker,linux,git,github,vscode" />
 </div>
 
 ### Languages
@@ -119,7 +130,7 @@ I care about software that does not just run in theory, but works in **real envi
   <img src="https://img.shields.io/badge/System%20Debugging-CC0000?style=flat-square"/>
 </p>
 
-### Embedded
+### Embedded / Hardware
 <p>
   <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/MCU-333333?style=flat-square"/>
@@ -129,23 +140,13 @@ I care about software that does not just run in theory, but works in **real envi
 
 ---
 
-## How I Work
-
-- I start from **system structure**, not from random feature implementation
-- I break problems into **input → processing → output → integration**
-- I value **stability, maintainability, and recoverability**
-- I am comfortable working across **multiple layers of a product**
-- I prefer building things that can eventually become **real products**, not only assignments
-
----
-
 ## Representative Experience
 
-### PX4 + ROS2 Simulation System
-- Built and recovered simulation environments with Docker-based execution flows
-- Connected ROS2 ↔ PX4 communication structures
-- Resolved parameter parsing and version mismatch issues
-- Stabilized broken execution environments into usable systems
+### PX4 + ROS2 VTOL Environment
+- Worked on a ROS2 + PX4 based VTOL workspace
+- Handled launch structure, simulation workflow, integration flow, and debugging context
+- Worked with package-based organization, Docker-based environment setup, and monitoring-oriented structure
+- Focused on making the environment executable and recoverable rather than keeping it theoretical
 
 ### PaejaePick
 - Designed and developed a campus-focused Flutter application
@@ -165,14 +166,30 @@ I care about software that does not just run in theory, but works in **real envi
 
 ---
 
-## Currently Exploring
+## Featured Repositories
 
-- Robotics software architecture
-- Autonomous system integration
-- Embedded communication and device control
-- Backend platform design
-- AI-assisted development workflows
-- Real-world service architecture
+<table>
+  <tr>
+    <td width="50%">
+      <h3>PaejaePick</h3>
+      <p>Campus application focused on real student utility, UX flow, and practical daily features.</p>
+    </td>
+    <td width="50%">
+      <h3>StatBase</h3>
+      <p>Data-driven baseball service focused on structured information delivery and usability.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AI Office</h3>
+      <p>Multi-agent architecture project with separated backend, workflow, and visualization logic.</p>
+    </td>
+    <td width="50%">
+      <h3>EduPulse</h3>
+      <p>Public-data-based AI analysis service with result interpretation and service presentation.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
