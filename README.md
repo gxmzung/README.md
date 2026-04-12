@@ -153,10 +153,10 @@ I describe those technologies only where I have actually used them in real proje
 ## Representative Experience
 
 ### PX4 + ROS2 VTOL Environment
-- Worked on a **ROS2 + PX4 based VTOL workspace**
-- Participated in **execution environment setup, launch structure handling, and integration flow debugging**
-- Tracked issues related to **YAML parameter formatting, execution/package dependencies, version compatibility, and middleware behavior**
-- Focused on making the environment **executable, stable, and recoverable**, not just theoretically configured
+- Worked on a ROS2 + PX4 based VTOL team environment
+- Investigated YAML parameter formatting, package dependency, and execution-path related issues
+- Rebuilt a minimal public reproduction repository based only on the parts I directly analyzed and validated
+- Focused on making the environment executable, stable, and reproducible
 
 ### PaejaePick
 - Designed and developed a **campus-focused Flutter application**
