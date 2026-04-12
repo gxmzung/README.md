@@ -1,18 +1,26 @@
+<div align="center">
 
-<h1>LEE JEONG</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:A7C7E7,50:D9B3FF,100:F6C1D1&text=LEE%20JEONG&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=System-oriented%20Developer%20%7C%20Robotics%20%7C%20Embedded%20%7C%20Backend&descAlignY=61&descSize=17&animation=fadeIn" />
 
-<h3>System-oriented Developer · Robotics · Embedded · Backend</h3>
-
-<p>
-I build software by understanding how the whole system works.<br/>
-I focus on <b>system integration</b>, <b>robotics</b>, <b>embedded development</b>, and <b>real-world problem solving</b>.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=B39DDB&center=true&vCenter=true&width=950&lines=I+build+software+by+understanding+how+the+whole+system+works.;System+Integration+%7C+Robotics+%7C+Embedded+%7C+Backend.;Real-world+products+over+isolated+features." />
 
 <p>
   <a href="https://github.com/gxmzung">
     <img src="https://img.shields.io/badge/GitHub-gxmzung-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=gxmzung&style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=gxmzung&style=for-the-badge&color=7B61FF" />
+  <a href="https://github.com/gxmzung?tab=followers">
+    <img src="https://img.shields.io/github/followers/gxmzung?style=for-the-badge&color=F783AC&labelColor=1c1c1c" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/System%20Integration-4C6EF5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Robotics-7B61FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Embedded-12B886?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend-F59F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Debugging-E03131?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Architecture-495057?style=flat-square"/>
 </p>
 
 </div>
@@ -63,56 +71,60 @@ I care about software that does not just run in theory, but works in **real envi
 
 ## Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,dart,js,spring,fastapi,flutter,nextjs,docker,linux,androidstudio,git,github,vscode" />
+
+</div>
+
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
 </p>
 
 ### Frontend / Mobile
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </p>
 
 ### Robotics / Autonomous Systems
 <p>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DDS-6DB33F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Micro%20XRCE--DDS-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Simulation-1E1E1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PX4-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DDS-6DB33F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Micro_XRCE--DDS-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Simulation-343A40?style=flat-square"/>
 </p>
 
 ### Infra / System
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Colcon-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Integration-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Debugging-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/System%20Integration-2E8B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Debugging-CC0000?style=flat-square"/>
 </p>
 
 ### Embedded
 <p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MCU-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-0078D7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OrCAD-0078D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MCU-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-0078D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OrCAD-0078D7?style=flat-square"/>
 </p>
 
 ---
@@ -164,21 +176,11 @@ I care about software that does not just run in theory, but works in **real envi
 
 ---
 
-## Featured Repositories
-
-- **PaejaePick** — Campus application focused on real student utility
-- **StatBase** — Data-driven baseball service with structured information design
-- **AI Office** — Multi-agent architecture with backend / frontend separation
-- **EduPulse** — Public-data-based AI analysis service
-- **PX4 + ROS2 environment work** — Integration, debugging, and stabilization experience
-
----
-
 ## GitHub Insights
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gxmzung&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gxmzung&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxmzung&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -194,7 +196,7 @@ I care about software that does not just run in theory, but works in **real envi
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gxmzung&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gxmzung&theme=tokyo-night&hide_border=true&radius=8" />
 </div>
 
 ---
@@ -209,6 +211,6 @@ I care about software that does not just run in theory, but works in **real envi
 
 <div align="center">
 
-### Thanks for visiting my GitHub
+### Build what actually works.
 
 </div>
