@@ -110,11 +110,15 @@ But I am intentionally working at this level.
 
 ---
 
-### Embedded / Firmware
+### Firmware / Embedded / Hardware
 <p>
   <img src="https://img.shields.io/badge/MCU-E0E0E0?style=flat-square"/>
   <img src="https://img.shields.io/badge/ESP32-CFD8DC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-A5D6A7?style=flat-square"/>
   <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-B3E5FC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Interrupt%20Handling-FFE0B2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PCB%20Design-C8E6C9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OrCAD-D1C4E9?style=flat-square"/>
 </p>
 
 ---
