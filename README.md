@@ -91,12 +91,12 @@ focusing on firmware and system-level engineering early.
 
 ---
 
-## What Makes Me Different
+### What Makes Me Different
 
-- Started from application development → moved to system-level engineering  
-- Focus on **integration**, not isolated features  
-- Strong interest in **real-world execution and system behavior**  
-- Work across **hardware + firmware + software**
+- **Top-Down Perspective**: Started from high-level applications (Java/Spring) and moved down to the metal (C/C++ Firmware). This allows me to bridge the gap between user experience and hardware constraints.
+- **Holistic Integration**: I don't just build features; I design the entire data flow from sensors to cloud.
+- **Problem Solver**: Driven by the question "How does it actually work?" which leads to deep debugging and system optimization.
+
 
 ---
 
