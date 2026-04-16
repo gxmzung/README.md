@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F2027,50:2C5364,100:00C9FF&text=LEE%20JEONG&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Firmware%20%7C%20Embedded%20Systems%20%7C%20Robotics%20%7C%20System%20Integration&descAlignY=62&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00E5FF&center=true&vCenter=true&width=950&lines=I+build+systems+from+hardware+to+software.;Firmware+%2B+Embedded+%2B+Backend+%2B+Robotics.;I+focus+on+real-world+execution,+not+just+code." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00E5FF&center=true&vCenter=true&width=950&lines=I+build+systems+from+hardware+to+software.;Firmware+%2B+Embedded+%2B+Backend+%2B+Robotics.;Focused+on+real-world+execution,+not+just+code." />
 
 <br/>
 
@@ -20,14 +20,27 @@
 
 ## About Me
 
-I am a developer focused on **building complete systems**, not isolated features.
+I am a developer focused on building **complete systems**, not isolated features.
 
-My interest lies in connecting  
-**firmware, embedded hardware, communication protocols, backend services, and user-facing applications**  
-into one working product.
+I design and implement systems that connect  
+**hardware → firmware → communication → backend → application**  
+into a single working product.
 
-I design systems that work in **real environments**, under **real constraints**,  
-and can be **executed, debugged, and maintained**.
+I care about systems that operate in **real environments**,  
+under **real constraints**, and can be **executed, debugged, and maintained**.
+
+---
+
+## Background
+
+I started development with **Java, Spring Boot, and Kotlin**,  
+building backend services and application-level systems.
+
+Over time, my interest shifted toward **lower-level systems**,  
+including firmware, embedded environments, and robotics.
+
+Now, I focus on building systems that integrate  
+**hardware, firmware, and software into one operational flow**.
 
 ---
 
@@ -36,7 +49,7 @@ and can be **executed, debugged, and maintained**.
 - Firmware & Embedded Systems Development
 - Robotics & Autonomous System Integration
 - System Architecture across multiple layers
-- Communication & Interface Design (MCU ↔ Server ↔ App)
+- Communication Design (MCU ↔ Server ↔ App)
 - Debugging & Failure Analysis in real environments
 
 ---
@@ -45,43 +58,69 @@ and can be **executed, debugged, and maintained**.
 
 - Designing systems from **sensor → MCU → communication → backend → app**
 - Debugging across **hardware, firmware, OS, and network layers**
-- Building **reproducible and stable execution environments**
-- Structuring **maintainable architectures for real-world operation**
+- Building **stable and reproducible execution environments**
+- Structuring **maintainable architectures for real-world systems**
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,docker,git,github,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,nodejs,linux,docker,git,github,mysql,firebase" />
 </div>
 
-### Firmware / Embedded
+---
+
+### Core Languages (System-Level Focus)
 <p>
   <img src="https://img.shields.io/badge/C-CFD8DC?style=flat-square&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%2B%2B-D1C4E9?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/Python-AEC6CF?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+---
+
+### Firmware / Embedded / Hardware
+<p>
   <img src="https://img.shields.io/badge/MCU-E0E0E0?style=flat-square"/>
   <img src="https://img.shields.io/badge/ESP32-CFD8DC?style=flat-square"/>
   <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-B3E5FC?style=flat-square"/>
   <img src="https://img.shields.io/badge/Embedded%20Systems-C8E6C9?style=flat-square"/>
 </p>
 
+---
+
 ### Robotics / Autonomous Systems
 <p>
   <img src="https://img.shields.io/badge/ROS2-C5CAE9?style=flat-square&logo=ros&logoColor=283593"/>
   <img src="https://img.shields.io/badge/PX4-D7CCC8?style=flat-square"/>
   <img src="https://img.shields.io/badge/DDS-A5D6A7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Micro_XRCE--DDS-FFE0B2?style=flat-square"/>
 </p>
 
-### System / Backend
+---
+
+### Backend / Service Systems
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-B2DFDB?style=flat-square&logo=fastapi&logoColor=00695C"/>
+  <img src="https://img.shields.io/badge/Java-89CFF0?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-C5E1A5?style=flat-square&logo=springboot&logoColor=2E7D32"/>
+  <img src="https://img.shields.io/badge/Node.js-C8E6C9?style=flat-square&logo=nodedotjs&logoColor=2E7D32"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFF3B0?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-B2DFDB?style=flat-square&logo=fastapi&logoColor=00695C"/>
   <img src="https://img.shields.io/badge/REST_API-D1C4E9?style=flat-square"/>
 </p>
 
-### Data / Storage
+---
+
+### App / Interface Layer (Supporting)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-B3E5FC?style=flat-square&logo=flutter&logoColor=0277BD"/>
+  <img src="https://img.shields.io/badge/Kotlin-D1C4E9?style=flat-square&logo=kotlin&logoColor=7F52FF"/>
+  <img src="https://img.shields.io/badge/Android-C8E6C9?style=flat-square&logo=android&logoColor=2E7D32"/>
+</p>
+
+---
+
+### Data / Database
 <p>
   <img src="https://img.shields.io/badge/SQL-B39DDB?style=flat-square"/>
   <img src="https://img.shields.io/badge/MySQL-B3E5FC?style=flat-square&logo=mysql&logoColor=1565C0"/>
@@ -89,13 +128,9 @@ and can be **executed, debugged, and maintained**.
   <img src="https://img.shields.io/badge/Firebase-FFE082?style=flat-square&logo=firebase&logoColor=FF6F00"/>
 </p>
 
-### App / Interface (Supporting Layer)
-<p>
-  <img src="https://img.shields.io/badge/Flutter-B3E5FC?style=flat-square&logo=flutter&logoColor=0277BD"/>
-  <img src="https://img.shields.io/badge/Android-C8E6C9?style=flat-square&logo=android&logoColor=2E7D32"/>
-</p>
+---
 
-### Infrastructure
+### Infrastructure / Environment
 <p>
   <img src="https://img.shields.io/badge/Linux-FFF9C4?style=flat-square&logo=linux&logoColor=333333"/>
   <img src="https://img.shields.io/badge/Docker-B3E5FC?style=flat-square&logo=docker&logoColor=0277BD"/>
@@ -108,36 +143,31 @@ and can be **executed, debugged, and maintained**.
 
 ### PX4 + ROS2 VTOL System
 - Built and debugged a ROS2 + PX4 based autonomous flight environment
-- Identified failures in **YAML config, dependency graph, execution paths**
-- Focused on **system reproducibility and execution stability**
+- Investigated issues in **YAML configs, dependencies, execution flow**
+- Focused on **stability and reproducibility**
 
 ---
 
-### PaejaePick (Campus System App)
-- Designed a **real-world campus service application**
-- Integrated **user flow, system structure, and lightweight backend**
-- Focused on **practical usability under constraints (no-server-first approach)**
+### PaejaePick
+- Developed a real-world campus application with practical features
+- Designed system flow with **minimal server dependency**
+- Focused on **real usability and execution constraints**
 
 ---
 
-### AI Office (Multi-Agent System)
-- Built a structured system with **FastAPI backend and multi-agent workflow**
-- Designed role-based architecture and execution flow visualization
-
----
-
-### EduPulse (AI Analysis System)
-- Developed a data-driven system using **public datasets and ML models**
-- Focused on **analysis → interpretation → service delivery pipeline**
+### AI Office / EduPulse
+- Designed structured backend systems using FastAPI
+- Built workflows for **data analysis and service delivery**
+- Worked on **multi-layer system architecture**
 
 ---
 
 ## How I Work
 
-- Start from **system architecture**, not from features
+- Start from **system architecture**, not isolated features
 - Think in **input → processing → output → integration**
 - Design for **execution, recovery, and maintainability**
-- Prefer **real-world working systems** over theoretical completeness
+- Build systems that can **actually run in real environments**
 
 ---
 
@@ -146,9 +176,9 @@ and can be **executed, debugged, and maintained**.
 I aim to become a developer who can:
 
 - Build firmware that directly interacts with hardware
-- Design embedded systems that communicate reliably
-- Integrate robotics systems with software infrastructure
-- Deliver full-stack systems from **physical layer to user interface**
+- Design embedded systems with reliable communication
+- Integrate robotics systems with backend infrastructure
+- Deliver complete systems from **physical layer to user interface**
 
 ---
 
