@@ -207,6 +207,15 @@ To build systems that:
 
 ---
 
+## GitHub Analytics
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gxmzung&theme=github_dark" alt="GitHub Stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gxmzung&theme=github_dark" alt="Top Languages by Repo" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gxmzung&theme=github_dark&utcOffset=9" alt="Commits by Hour" />
+</div>
+
+
 ## Keywords
 
 `Firmware` `Embedded Systems` `Flight Controller`  
